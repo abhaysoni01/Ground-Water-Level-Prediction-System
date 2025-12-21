@@ -27,7 +27,7 @@ A comprehensive machine learning application for predicting groundwater levels a
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/groundwater-prediction-system.git
+   git clone https://github.com/abhaysoni01/groundwater-prediction-system.git
    cd groundwater-prediction-system
    ```
 
