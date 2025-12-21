@@ -5,3 +5,5 @@ streamlit
 matplotlib
 seaborn
 joblib
+tensorflow
+plotly
